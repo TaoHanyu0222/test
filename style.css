@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+@font-face {
+    font-family: Afoot;
+    src: url(LeonardoFascia_Web-M.woff);
+}
+body {
+    background-color: #fdd8d8;
+    color: #333;
+    font-family: Afoot;
+
+}
