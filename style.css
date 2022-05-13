@@ -1,6 +1,6 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 30px;
+    padding: 5px;
 }
 
 
@@ -13,4 +13,18 @@ body {
     color: #333;
     font-family: Afoot;
 
+}
+@media screen and (max-width: 768px) {
+    body {
+      background-color: blue;
+      color: white;
+    }
+  }
+
+.answer {
+ color: rgb(247, 60, 60);   
+}
+
+.question {
+ font-size: larger;
 }
